@@ -22,4 +22,14 @@ bundle install
 ```
 bundle exec middleman server
 ```
+* 離開可按 Ctrl + C 關閉服務
+
+瀏覽文件
+```
+http://localhost:4567
+```
+或
+```
+http://127.0.0.1:4567
+```
 :::
